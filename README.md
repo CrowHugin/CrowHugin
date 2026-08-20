@@ -1,9 +1,9 @@
-# Salut, moi c'est [Ton Prénom] 👋
+KUNTZ Bastien - CrowHugin
+---
 
 ### 👨‍💻 À Who am I ?
-- KUNTZ Bastien aka Crowhugin
 
-- ![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white) I'm currently at 42 school.
+- Currently studying at ![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white).
 - 🌱 Currently working with C and python, sometimes docker, VMs etc.
 
 ---
@@ -12,13 +12,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### 📊 Statistiques GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON-PSEUDO&show_icons=true&theme=radial" alt="Statistiques GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON-PSEUDO&layout=compact&theme=radial" alt="Langages les plus utilisés" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CrowHugin&show_icons=true&theme=radial" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrowHugin&layout=compact&theme=radial" alt="Most used languages" height="170"/>
 </p>
 
 ---
