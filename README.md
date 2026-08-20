@@ -1,17 +1,16 @@
 # Salut, moi c'est [Ton Prénom] 👋
 
-### 👨‍💻 À propos de moi
-- 🔭 Je travaille actuellement sur **[Nom de ton projet principal]**
-- 🌱 J'apprends actuellement **[Technologie/Langage que tu étudies]**
-- 💬 Pose-moi des questions sur **[Tes domaines d'expertise]**
-- 📫 Pour me joindre : **[ton.email@example.com]**
+### 👨‍💻 À Who am I ?
+- KUNTZ Bastien aka Crowhugin
+
+- ![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white) I'm currently at 42 school.
+- 🌱 Currently working with C and python, sometimes docker, VMs etc.
 
 ---
 
 ### 🛠️ Langages et Outils
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
