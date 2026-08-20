@@ -3,8 +3,9 @@ KUNTZ Bastien - CrowHugin
 
 ### Who am I ?
 
-- Currently studying at 42school in Paris.
-- Currently working with C and python, sometimes docker, VMs etc.
+- Student at 42school in Paris.
+- Mostly working with C and python, sometimes docker, VMs etc.
+- Will work on go and SQL soon.
 
 ---
 
