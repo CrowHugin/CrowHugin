@@ -5,7 +5,7 @@ KUNTZ Bastien - CrowHugin
 
 - Student at 42school in Paris.
 - Mostly working with C and python, sometimes docker, VMs etc.
-- Working on some goo project and sometimes COBOL or ASM.
+- Working on some Go project and sometimes COBOL or ASM.
 
 ---
 
