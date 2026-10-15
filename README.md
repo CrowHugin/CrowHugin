@@ -5,7 +5,6 @@ KUNTZ Bastien - CrowHugin
 
 - Student at 42school in Paris.
 - Mostly working with C and python, sometimes docker, VMs etc.
-- Will work on go and SQL soon.
 
 ---
 
@@ -16,6 +15,7 @@ KUNTZ Bastien - CrowHugin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/gnubash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ---
 
 ###  Find me on :
